@@ -21,7 +21,7 @@ This project analyzes Amazon sales data to uncover insights related to revenue t
 
 ## 📊 Dashboard
 
-![Dashboard](images/Amazon Dashboard.png)
+![Dashboard](Amazon Dashboard.png)
 
 ---
 
