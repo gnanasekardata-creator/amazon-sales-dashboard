@@ -1,7 +1,4 @@
-# amazon-sales-dashboard
-Excel dashboard analyzing sales performance and customer insights
-
-:
+)
 
 📊 Amazon Sales Performance Dashboard
 📌 Project Overview
@@ -21,3 +18,5 @@ SQL (Data Cleaning & Transformation)
 Discounts do not always lead to higher revenue
 Certain categories consistently outperform others
 Wallet payments show higher transaction value
+🖼 Dashboard Preview
+![Dashboard](images/Amazon Dashboard.png)
